@@ -27,3 +27,5 @@ While the root directory of this repository is intended to map directly to the r
 For testing purposes, the CGI scripts are loaded as Ruby modules instead of normal scripts, and their lifecycle is exercised by a minimal Rack application to facilitate the use of Capybara.
 
 To run the test suite, open a terminal within the `tests` directory, and run `bundle && bundle exec rake`.
+
+Solicitação do sites do Wayback Archive (URL, Data, Hora e Duração) - de 1996 a 2024
